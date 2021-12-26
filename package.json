@@ -2,7 +2,7 @@
   "name": "moviesapp",
   "version": "0.1.0",
   "private": true,
-  "home":"https://Patriosx.github.io/movies-app",
+  "homepage":"https://Patriosx.github.io/movies-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
